@@ -2,4 +2,4 @@
 
 ## Table of Contents
 
-1. [Unfold, Map, Fold](./tree/master/notes/0930.md)
+1. [Unfold, Map, Fold](./notes/0930.md)
